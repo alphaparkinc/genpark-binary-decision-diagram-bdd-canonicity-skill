@@ -1,0 +1,19 @@
+{
+  "name": "genpark-binary-decision-diagram-bdd-canonicity-skill",
+  "version": "1.0.0",
+  "description": "Reduced Ordered Binary Decision Diagram (ROBDD) engine with Shannon expansion and canonical ITE synthesis",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "bdd",
+    "robdd",
+    "binary-decision-diagram",
+    "boolean-logic",
+    "shannon-expansion",
+    "formal-verification",
+    "python-standard-library",
+    "agent-skills",
+    "canonical-representation",
+    "circuit-synthesis"
+  ]
+}
