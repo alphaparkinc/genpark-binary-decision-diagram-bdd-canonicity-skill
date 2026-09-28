@@ -1,0 +1,5 @@
+name: genpark-binary-decision-diagram-bdd-canonicity-skill
+description: Reduced Ordered Binary Decision Diagram (ROBDD) engine with Shannon expansion and canonical ITE synthesis
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
