@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-binary-decision-diagram-bdd-canonicity-skill"
+version = "1.0.0"
+description = "Reduced Ordered Binary Decision Diagram (ROBDD) engine with Shannon expansion and canonical ITE synthesis"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
